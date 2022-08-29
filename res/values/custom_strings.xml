@@ -306,4 +306,8 @@
     <string name="status_bar_battery_percent_hidden">Hidden</string>
     <string name="status_bar_battery_percent_text_inside">Inside the icon</string>
     <string name="status_bar_battery_percent_text_next">Next to the icon</string> 
+
+    <!-- Statusbar Clock background chip -->
+    <string name="status_bar_clock_chip_title">Clock background chip</string>
+    <string name="status_bar_clock_chip_summary">Display accented chip behind clock</string>
 </resources>
