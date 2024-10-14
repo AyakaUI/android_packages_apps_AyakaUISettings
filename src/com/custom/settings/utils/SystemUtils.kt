@@ -48,7 +48,7 @@ object SystemUtils {
         ).show()
 
         Handler(Looper.getMainLooper()).postDelayed({
-            HertzifyUtils.restartSystemUI()
+            CustomUtils.restartSystemUI()
         }, 2000) // 2-second delay
     }
 } 
