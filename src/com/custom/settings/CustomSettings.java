@@ -12,9 +12,9 @@ import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
 
 @SearchIndexable
-public class AyakaUISettings extends DashboardFragment {
+public class CustomSettings extends DashboardFragment {
 
-    private static final String TAG = "AyakaUISettings";
+    private static final String TAG = "CustomSettings";
 
     @Override
     protected int getPreferenceScreenResId() {

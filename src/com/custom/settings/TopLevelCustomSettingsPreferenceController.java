@@ -10,9 +10,9 @@ import android.content.Context;
 import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
-public class TopLevelAyakaUISettingsPreferenceController extends BasePreferenceController {
+public class TopLevelCustomSettingsPreferenceController extends BasePreferenceController {
 
-    public TopLevelAyakaUISettingsPreferenceController(Context context,
+    public TopLevelCustomSettingsPreferenceController(Context context,
             String preferenceKey) {
         super(context, preferenceKey);
     }
