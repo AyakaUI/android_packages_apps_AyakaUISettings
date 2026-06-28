@@ -31,7 +31,7 @@
         android:title="@string/lockscreen_custom_clock_font_title"
         android:summary="lockscreen_custom_clock_font_summary" />
 
-    <com.custom.settings.preferences.SecureSettingListPreference
+    <com.custom.settings.preferences.SecureSettingSeekBarPreference
         android:key="lock_screen_custom_clock_size_scale"
         android:title="@string/lockscreen_custom_clock_size_title"
         android:summary="@string/lockscreen_custom_clock_size_summary"
